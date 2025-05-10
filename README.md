@@ -2,7 +2,9 @@
 
 https://greedyemu.com is hosted on AWS using S3, Route 53, CloudFront and Certificate Manager.
 
-To sync files between Github and AWS S3 bucket using Github Actions:  
+These are the official guides:
+
+Sync files between Github and AWS S3 bucket using Github Actions:  
 https://github.com/enamhasan/GitHub-S3-Sync
 
 Host a static website using AWS S3:  
