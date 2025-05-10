@@ -19,7 +19,7 @@ jobs:
         aws-region: 'us-east-2'
 
     - name: Install AWS CLI
-      run: sudo snap install awscli
+      run: sudo snap install aws-cli --classic
 
     - name: Sync files to S3
       run: |
