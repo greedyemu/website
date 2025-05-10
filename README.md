@@ -17,4 +17,4 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-dom
 Serve a website using CloudFront:  
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-cloudfront-walkthrough.html
 
-<img src="https://github.com/greedyemu/website/blob/main/image/architecture.png" style="width:400px; alt="architecture"/>
+<img src="https://github.com/greedyemu/website/blob/main/image/architecture.png" style="width:400px"; alt="architecture">
