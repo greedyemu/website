@@ -1,4 +1,4 @@
-## Website hosted on AWS S3
+## Website hosted on AWS
 
 https://greedyemu.com is hosted on AWS using S3, Route 53, CloudFront and Certificate Manager.
 
