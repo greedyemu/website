@@ -22,5 +22,5 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-cloudfront
 Deliver Content Faster with Amazon CloudFront:  
 https://aws.amazon.com/getting-started/hands-on/deliver-content-faster/?ref=gsrchandson
 
-Register a Domain Name with Amazon Route 53:
+Register a Domain Name with Amazon Route 53:  
 https://aws.amazon.com/getting-started/hands-on/get-a-domain/?ref=gsrchandson&id=updated
