@@ -19,7 +19,7 @@ jobs:
         aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
 
     - name: Install AWS CLI
-      run: sudo snap install aws-cli --classic
+      run: sudo snap install aws-cli
 
     - name: Sync files to S3
       run: |
