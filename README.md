@@ -19,5 +19,5 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-dom
 Serve a website using CloudFront:  
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-cloudfront-walkthrough.html
 
-Deliver Content Faster with Amazon CloudFront:
+Deliver Content Faster with Amazon CloudFront:  
 https://aws.amazon.com/getting-started/hands-on/deliver-content-faster/?ref=gsrchandson
