@@ -20,5 +20,5 @@ Register a Domain Name using Amazon Route 53:
 https://aws.amazon.com/getting-started/hands-on/get-a-domain/?ref=gsrchandson&id=updated
 
 Serve a website using Amazon CloudFront:  
-https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-cloudfront-walkthrough.html
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-cloudfront-walkthrough.html  
 https://aws.amazon.com/getting-started/hands-on/deliver-content-faster/?ref=gsrchandson
